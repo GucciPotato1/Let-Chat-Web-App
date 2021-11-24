@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(rgb(255, 139, 139), rgb(255, 255, 220));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.head{
+    font-family: Verdana;
+    color: rgb(182, 253, 182);
+    text-shadow: 2px 2px #ff0000;
+    text-align: center;
+}
+
+.container-login {
+    border-top: 15px solid rgb(179, 255, 185);
+    background-color: seashell;
+    border-radius: 10px;
+    width: 700px;
+    height: 400px;
+    margin: auto;
+    padding: 10px;
+}
+
+.welcome{
+    font-family: cursive;
+    color: rgb(255, 121, 121);
+    text-shadow: 2px 2px 5px rgb(255, 242, 123);
+    text-align: center;
+}
+
+.image2div{
+    text-align: right;
+}
+
+.user{
+    text-align: center;
+}
+
+.button{
+    background-color: rgb(195, 220, 255);
+    border-radius: 4px;
+}
+
+.buttondiv{
+    text-align: center;
+}
